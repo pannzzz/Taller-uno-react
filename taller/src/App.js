@@ -4,7 +4,7 @@ import Task from "./task";
 function Home() {
   return (
     <div>
-      <Task name ="Maria Jose" />
+      <Task name ="Maria Jose unu" />
     </div>
   );
 }
